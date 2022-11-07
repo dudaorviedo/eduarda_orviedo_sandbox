@@ -1,0 +1,20 @@
+li
+{color:blue}
+h1{
+    color:blueviolet;
+    border: 2px dashed purple;
+ }
+
+body{
+    background-color: coral;
+}
+.moon {
+    color:green
+}
+.big-text {
+    font-size: 40px;
+} 
+#calisto-text {
+    font-size: 10px;
+    color:deeppink
+}

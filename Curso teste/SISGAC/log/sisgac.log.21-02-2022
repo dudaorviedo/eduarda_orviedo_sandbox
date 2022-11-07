@@ -1,0 +1,329 @@
+2022-02-21 21:42:55,660 [Thread-0] INFO   org.hibernate.ejb.Version - Hibernate EntityManager 3.2.0.CR1
+ 2022-02-21 21:42:55,671 [Thread-0] INFO   org.hibernate.cfg.annotations.Version - Hibernate Annotations 3.2.0.CR1
+ 2022-02-21 21:42:55,676 [Thread-0] INFO   org.hibernate.cfg.Environment - Hibernate 3.2 cr2
+ 2022-02-21 21:42:55,679 [Thread-0] INFO   org.hibernate.cfg.Environment - hibernate.properties not found
+ 2022-02-21 21:42:55,681 [Thread-0] INFO   org.hibernate.cfg.Environment - Bytecode provider name : cglib
+ 2022-02-21 21:42:55,686 [Thread-0] INFO   org.hibernate.cfg.Environment - using JDK 1.4 java.sql.Timestamp handling
+ 2022-02-21 21:42:55,918 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - META-INF/MANIFEST.MFO-:-Ofalse
+ 2022-02-21 21:42:55,919 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - META-INF/SISGAC_HIBERANTE.dbschemaO-:-Ofalse
+ 2022-02-21 21:42:55,919 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - META-INF/derby.dbschemaO-:-Ofalse
+ 2022-02-21 21:42:55,919 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - META-INF/persistence.xmlO-:-Ofalse
+ 2022-02-21 21:42:55,919 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - META-INF/public_SISGAC.dbschemaO-:-Ofalse
+ 2022-02-21 21:42:55,919 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - ValidatorMessages.propertiesO-:-Ofalse
+ 2022-02-21 21:42:55,932 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - log4j.propertiesO-:-Ofalse
+ 2022-02-21 21:42:55,948 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/48_desktop.pngO-:-Ofalse
+ 2022-02-21 21:42:55,948 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/Thumbs.dbO-:-Ofalse
+ 2022-02-21 21:42:55,948 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/abrir-16.pngO-:-Ofalse
+ 2022-02-21 21:42:55,948 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/alunos-48.pngO-:-Ofalse
+ 2022-02-21 21:42:55,948 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/atividade-complementar-48.pngO-:-Ofalse
+ 2022-02-21 21:42:55,948 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/buscar-16.pngO-:-Ofalse
+ 2022-02-21 21:42:55,948 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/cancelar-16.pngO-:-Ofalse
+ 2022-02-21 21:42:55,948 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/categoria-48.pngO-:-Ofalse
+ 2022-02-21 21:42:55,948 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/closeX.gifO-:-Ofalse
+ 2022-02-21 21:42:55,948 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/curriculo-48.pngO-:-Ofalse
+ 2022-02-21 21:42:55,948 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/cursos-48.pngO-:-Ofalse
+ 2022-02-21 21:42:55,948 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/deletar-16.pngO-:-Ofalse
+ 2022-02-21 21:42:55,949 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/editar-16.pngO-:-Ofalse
+ 2022-02-21 21:42:55,949 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/graficos-48.pngO-:-Ofalse
+ 2022-02-21 21:42:55,949 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/limpar-16.pngO-:-Ofalse
+ 2022-02-21 21:42:55,949 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/ok-16.pngO-:-Ofalse
+ 2022-02-21 21:42:55,949 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/relatorios-48.pngO-:-Ofalse
+ 2022-02-21 21:42:55,949 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/salvar-16.pngO-:-Ofalse
+ 2022-02-21 21:42:55,949 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/sisgac_logo.pngO-:-Ofalse
+ 2022-02-21 21:42:55,950 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/mensagens/mensagens.propertiesO-:-Ofalse
+ 2022-02-21 21:42:56,019 [Thread-0] INFO   org.hibernate.cfg.AnnotationBinder - Binding entity from annotated class: org.confrariadojava.sisgac.domain.AlunoAtividadeComplementar
+ 2022-02-21 21:42:56,022 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: AlunoAtividadeComplementar.findById => SELECT a FROM AlunoAtividadeComplementar a WHERE a.id = :id
+ 2022-02-21 21:42:56,034 [Thread-0] INFO   org.hibernate.cfg.annotations.EntityBinder - Bind entity org.confrariadojava.sisgac.domain.AlunoAtividadeComplementar on table aluno_atividade_complementar
+ 2022-02-21 21:42:56,056 [Thread-0] INFO   org.hibernate.cfg.AnnotationBinder - Binding entity from annotated class: org.confrariadojava.sisgac.domain.Alunos
+ 2022-02-21 21:42:56,056 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Alunos.findById => SELECT a FROM Alunos a WHERE a.id = :id
+ 2022-02-21 21:42:56,056 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Alunos.findByNome => SELECT a FROM Alunos a WHERE a.nome = :nome
+ 2022-02-21 21:42:56,056 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Alunos.findByMatricula => SELECT a FROM Alunos a WHERE a.matricula = :matricula
+ 2022-02-21 21:42:56,056 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Alunos.findByIngresso => SELECT a FROM Alunos a WHERE a.ingresso = :ingresso
+ 2022-02-21 21:42:56,056 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Alunos.findByTaxaAproveitamento => SELECT a FROM Alunos a WHERE a.taxaAproveitamento = :taxaAproveitamento
+ 2022-02-21 21:42:56,056 [Thread-0] INFO   org.hibernate.cfg.annotations.EntityBinder - Bind entity org.confrariadojava.sisgac.domain.Alunos on table alunos
+ 2022-02-21 21:42:56,069 [Thread-0] INFO   org.hibernate.cfg.AnnotationBinder - Binding entity from annotated class: org.confrariadojava.sisgac.domain.AtividadeComplementar
+ 2022-02-21 21:42:56,069 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: AtividadeComplementar.findById => SELECT a FROM AtividadeComplementar a WHERE a.id = :id
+ 2022-02-21 21:42:56,069 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: AtividadeComplementar.findByNome => SELECT a FROM AtividadeComplementar a WHERE a.nome = :nome
+ 2022-02-21 21:42:56,069 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: AtividadeComplementar.findByTaxaEquivalencia => SELECT a FROM AtividadeComplementar a WHERE a.taxaEquivalencia = :taxaEquivalencia
+ 2022-02-21 21:42:56,069 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: AtividadeComplementar.findByDescricao => SELECT a FROM AtividadeComplementar a WHERE a.descricao = :descricao
+ 2022-02-21 21:42:56,069 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: AtividadeComplementar.findByStatus => SELECT a FROM AtividadeComplementar a WHERE a.status = :status
+ 2022-02-21 21:42:56,069 [Thread-0] INFO   org.hibernate.cfg.annotations.EntityBinder - Bind entity org.confrariadojava.sisgac.domain.AtividadeComplementar on table atividade_complementar
+ 2022-02-21 21:42:56,073 [Thread-0] INFO   org.hibernate.cfg.AnnotationBinder - Binding entity from annotated class: org.confrariadojava.sisgac.domain.Categoria
+ 2022-02-21 21:42:56,073 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Categoria.findById => SELECT c FROM Categoria c WHERE c.id = :id
+ 2022-02-21 21:42:56,073 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Categoria.findByNome => SELECT c FROM Categoria c WHERE c.nome = :nome
+ 2022-02-21 21:42:56,073 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Categoria.findByMaximoHoras => SELECT c FROM Categoria c WHERE c.maximoHoras = :maximoHoras
+ 2022-02-21 21:42:56,073 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Categoria.findByStatus => SELECT c FROM Categoria c WHERE c.status = :status
+ 2022-02-21 21:42:56,073 [Thread-0] INFO   org.hibernate.cfg.annotations.EntityBinder - Bind entity org.confrariadojava.sisgac.domain.Categoria on table categoria
+ 2022-02-21 21:42:56,075 [Thread-0] INFO   org.hibernate.cfg.AnnotationBinder - Binding entity from annotated class: org.confrariadojava.sisgac.domain.Curriculo
+ 2022-02-21 21:42:56,075 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Curriculo.findById => SELECT c FROM Curriculo c WHERE c.id = :id
+ 2022-02-21 21:42:56,075 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Curriculo.findByCargaHoraria => SELECT c FROM Curriculo c WHERE c.cargaHoraria = :cargaHoraria
+ 2022-02-21 21:42:56,075 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Curriculo.findByImplantacao => SELECT c FROM Curriculo c WHERE c.implantacao = :implantacao
+ 2022-02-21 21:42:56,075 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Curriculo.findByNumeroDisciplinas => SELECT c FROM Curriculo c WHERE c.numeroDisciplinas = :numeroDisciplinas
+ 2022-02-21 21:42:56,075 [Thread-0] INFO   org.hibernate.cfg.annotations.EntityBinder - Bind entity org.confrariadojava.sisgac.domain.Curriculo on table curriculo
+ 2022-02-21 21:42:56,077 [Thread-0] INFO   org.hibernate.cfg.AnnotationBinder - Binding entity from annotated class: org.confrariadojava.sisgac.domain.Curso
+ 2022-02-21 21:42:56,077 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Curso.findById => SELECT c FROM Curso c WHERE c.id = :id
+ 2022-02-21 21:42:56,077 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Curso.findByNome => SELECT c FROM Curso c WHERE c.nome = :nome
+ 2022-02-21 21:42:56,077 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Curso.findByDescricao => SELECT c FROM Curso c WHERE c.descricao = :descricao
+ 2022-02-21 21:42:56,077 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Curso.findByStatus => SELECT c FROM Curso c WHERE c.status = :status
+ 2022-02-21 21:42:56,078 [Thread-0] INFO   org.hibernate.cfg.annotations.EntityBinder - Bind entity org.confrariadojava.sisgac.domain.Curso on table curso
+ 2022-02-21 21:42:56,080 [Thread-0] INFO   org.hibernate.cfg.AnnotationBinder - Binding entity from annotated class: org.confrariadojava.sisgac.domain.CursoAluno
+ 2022-02-21 21:42:56,080 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: CursoAluno.findById => SELECT c FROM CursoAluno c WHERE c.id = :id
+ 2022-02-21 21:42:56,080 [Thread-0] INFO   org.hibernate.cfg.annotations.EntityBinder - Bind entity org.confrariadojava.sisgac.domain.CursoAluno on table curso_aluno
+ 2022-02-21 21:42:56,081 [Thread-0] INFO   org.hibernate.cfg.AnnotationBinder - Binding entity from annotated class: org.confrariadojava.sisgac.domain.CursoCurriculo
+ 2022-02-21 21:42:56,081 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: CursoCurriculo.findById => SELECT c FROM CursoCurriculo c WHERE c.id = :id
+ 2022-02-21 21:42:56,082 [Thread-0] INFO   org.hibernate.cfg.annotations.EntityBinder - Bind entity org.confrariadojava.sisgac.domain.CursoCurriculo on table curso_curriculo
+ 2022-02-21 21:42:56,083 [Thread-0] INFO   org.hibernate.cfg.AnnotationBinder - Binding entity from annotated class: org.confrariadojava.sisgac.domain.Instituicao
+ 2022-02-21 21:42:56,083 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Instituicao.findById => SELECT i FROM Instituicao i WHERE i.id = :id
+ 2022-02-21 21:42:56,083 [Thread-0] INFO   org.hibernate.cfg.annotations.EntityBinder - Bind entity org.confrariadojava.sisgac.domain.Instituicao on table instituicao
+ 2022-02-21 21:42:56,088 [Thread-0] INFO   org.hibernate.cfg.AnnotationBinder - Binding entity from annotated class: org.confrariadojava.sisgac.domain.Lancamento
+ 2022-02-21 21:42:56,088 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Lancamento.findById => SELECT l FROM Lancamento l WHERE l.id = :id
+ 2022-02-21 21:42:56,088 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Lancamento.findByDataInicio => SELECT l FROM Lancamento l WHERE l.dataInicio = :dataInicio
+ 2022-02-21 21:42:56,088 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Lancamento.findByDataFim => SELECT l FROM Lancamento l WHERE l.dataFim = :dataFim
+ 2022-02-21 21:42:56,088 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Lancamento.findByCargaHorario => SELECT l FROM Lancamento l WHERE l.cargaHorario = :cargaHorario
+ 2022-02-21 21:42:56,088 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Lancamento.findByHoraAproveitamento => SELECT l FROM Lancamento l WHERE l.horaAproveitamento = :horaAproveitamento
+ 2022-02-21 21:42:56,088 [Thread-0] INFO   org.hibernate.cfg.annotations.EntityBinder - Bind entity org.confrariadojava.sisgac.domain.Lancamento on table lancamento
+ 2022-02-21 21:42:56,118 [Thread-0] INFO   org.hibernate.cfg.annotations.CollectionBinder - Mapping collection: org.confrariadojava.sisgac.domain.Alunos.cursoAlunoCollection -> curso_aluno
+ 2022-02-21 21:42:56,119 [Thread-0] INFO   org.hibernate.cfg.annotations.CollectionBinder - Mapping collection: org.confrariadojava.sisgac.domain.Alunos.lancamentoCollection -> lancamento
+ 2022-02-21 21:42:56,119 [Thread-0] INFO   org.hibernate.cfg.annotations.CollectionBinder - Mapping collection: org.confrariadojava.sisgac.domain.Alunos.alunoAtividadeComplementarCollection -> aluno_atividade_complementar
+ 2022-02-21 21:42:56,119 [Thread-0] INFO   org.hibernate.cfg.annotations.CollectionBinder - Mapping collection: org.confrariadojava.sisgac.domain.AtividadeComplementar.alunoAtividadeComplementarCollection -> aluno_atividade_complementar
+ 2022-02-21 21:42:56,119 [Thread-0] INFO   org.hibernate.cfg.annotations.CollectionBinder - Mapping collection: org.confrariadojava.sisgac.domain.Categoria.atividadeComplementarCollection -> atividade_complementar
+ 2022-02-21 21:42:56,119 [Thread-0] INFO   org.hibernate.cfg.annotations.CollectionBinder - Mapping collection: org.confrariadojava.sisgac.domain.Curriculo.curriculoCursoCollection -> curso_curriculo
+ 2022-02-21 21:42:56,119 [Thread-0] INFO   org.hibernate.cfg.annotations.CollectionBinder - Mapping collection: org.confrariadojava.sisgac.domain.Curso.cursoAlunoCollection -> curso_aluno
+ 2022-02-21 21:42:56,119 [Thread-0] INFO   org.hibernate.cfg.annotations.CollectionBinder - Mapping collection: org.confrariadojava.sisgac.domain.Curso.curriculoCollection -> curriculo
+ 2022-02-21 21:42:56,165 [Thread-0] INFO   org.hibernate.connection.DriverManagerConnectionProvider - Using Hibernate built-in connection pool (not for production use!)
+ 2022-02-21 21:42:56,165 [Thread-0] INFO   org.hibernate.connection.DriverManagerConnectionProvider - Hibernate connection pool size: 20
+ 2022-02-21 21:42:56,165 [Thread-0] INFO   org.hibernate.connection.DriverManagerConnectionProvider - autocommit mode: true
+ 2022-02-21 21:42:56,267 [Thread-0] INFO   org.hibernate.connection.DriverManagerConnectionProvider - using driver: org.apache.derby.jdbc.EmbeddedDriver at URL: jdbc:derby:database/sisgac
+ 2022-02-21 21:42:56,267 [Thread-0] INFO   org.hibernate.connection.DriverManagerConnectionProvider - connection properties: {user=sisgac, password=****, autocommit=true, release_mode=auto}
+ 2022-02-21 21:42:56,480 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - RDBMS: Apache Derby, version: 10.3.2.1 - (599110)
+ 2022-02-21 21:42:56,481 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - JDBC driver: Apache Derby Embedded JDBC Driver, version: 10.3.2.1 - (599110)
+ 2022-02-21 21:42:56,486 [Thread-0] INFO   org.hibernate.dialect.Dialect - Using dialect: org.hibernate.dialect.DerbyDialect
+ 2022-02-21 21:42:56,488 [Thread-0] INFO   org.hibernate.transaction.TransactionFactoryFactory - Transaction strategy: org.hibernate.transaction.JDBCTransactionFactory
+ 2022-02-21 21:42:56,489 [Thread-0] INFO   org.hibernate.transaction.TransactionManagerLookupFactory - No TransactionManagerLookup configured (in JTA environment, use of read-write or transactional second-level cache is not recommended)
+ 2022-02-21 21:42:56,489 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Automatic flush during beforeCompletion(): disabled
+ 2022-02-21 21:42:56,489 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Automatic session close at end of transaction: disabled
+ 2022-02-21 21:42:56,489 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Scrollable result sets: enabled
+ 2022-02-21 21:42:56,489 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - JDBC3 getGeneratedKeys(): disabled
+ 2022-02-21 21:42:56,489 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Connection release mode: auto
+ 2022-02-21 21:42:56,489 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Default batch fetch size: 1
+ 2022-02-21 21:42:56,489 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Generate SQL with comments: disabled
+ 2022-02-21 21:42:56,489 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Order SQL updates by primary key: disabled
+ 2022-02-21 21:42:56,489 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Query translator: org.hibernate.hql.ast.ASTQueryTranslatorFactory
+ 2022-02-21 21:42:56,490 [Thread-0] INFO   org.hibernate.hql.ast.ASTQueryTranslatorFactory - Using ASTQueryTranslatorFactory
+ 2022-02-21 21:42:56,490 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Query language substitutions: {}
+ 2022-02-21 21:42:56,490 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Second-level cache: enabled
+ 2022-02-21 21:42:56,490 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Query cache: disabled
+ 2022-02-21 21:42:56,490 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Cache provider: org.hibernate.cache.NoCacheProvider
+ 2022-02-21 21:42:56,491 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Optimize cache for minimal puts: disabled
+ 2022-02-21 21:42:56,491 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Structured second-level cache entries: disabled
+ 2022-02-21 21:42:56,492 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Statistics: disabled
+ 2022-02-21 21:42:56,492 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Deleted entity synthetic identifier rollback: disabled
+ 2022-02-21 21:42:56,493 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Default entity-mode: pojo
+ 2022-02-21 21:42:56,516 [Thread-0] INFO   org.hibernate.impl.SessionFactoryImpl - building session factory
+ 2022-02-21 21:42:56,665 [Thread-0] INFO   org.hibernate.impl.SessionFactoryObjectFactory - Not binding factory to JNDI, no JNDI name configured
+ 2022-02-21 21:42:56,666 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.SchemaUpdate - Running hbm2ddl schema update
+ 2022-02-21 21:42:56,666 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.SchemaUpdate - fetching database metadata
+ 2022-02-21 21:42:56,669 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.SchemaUpdate - updating schema
+ 2022-02-21 21:42:57,064 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - table found: .SISGAC.ALUNO_ATIVIDADE_COMPLEMENTAR
+ 2022-02-21 21:42:57,064 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - columns: [aluno_id, id, atividade_complementar_id]
+ 2022-02-21 21:42:57,064 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - foreign keys: [fk8a6972e328602573, aluno_atividade_complementar_aluno_id_fk, fk8a6972e3eff15aad, aluno_atividade_complementar_a_c_id_id_fk]
+ 2022-02-21 21:42:57,064 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - indexes: [sql070608002733870, sql070608012642140, sql070608002733620, sql070608012642170, sql070608002733890]
+ 2022-02-21 21:42:57,072 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - table found: .SISGAC.ALUNOS
+ 2022-02-21 21:42:57,072 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - columns: [taxa_aproveitamento, matricula, ingresso, nome, id]
+ 2022-02-21 21:42:57,072 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - foreign keys: []
+ 2022-02-21 21:42:57,072 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - indexes: [sql070608002733640]
+ 2022-02-21 21:42:57,082 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - table found: .SISGAC.ATIVIDADE_COMPLEMENTAR
+ 2022-02-21 21:42:57,082 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - columns: [nome, taxa_equivalencia, id, categoria_id, descricao, status]
+ 2022-02-21 21:42:57,082 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - foreign keys: [fkaad9b10f9acabfbe, categoria_id_id_fk]
+ 2022-02-21 21:42:57,082 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - indexes: [sql070608002733650, sql070608002733950, sql070608012642200]
+ 2022-02-21 21:42:57,089 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - table found: .SISGAC.CATEGORIA
+ 2022-02-21 21:42:57,089 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - columns: [maximo_horas, nome, id, status]
+ 2022-02-21 21:42:57,089 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - foreign keys: []
+ 2022-02-21 21:42:57,089 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - indexes: [sql070608002733670]
+ 2022-02-21 21:42:57,097 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - table found: .SISGAC.CURRICULO
+ 2022-02-21 21:42:57,097 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - columns: [carga_horaria, curso_id, numero_disciplinas, implantacao, nome, id]
+ 2022-02-21 21:42:57,097 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - foreign keys: [curriculo_curso_id_id_fk, fk2765b26cf4d2d1e]
+ 2022-02-21 21:42:57,097 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - indexes: [sql070608002751170, sql070608012642260, sql070608002733710]
+ 2022-02-21 21:42:57,102 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - table found: .SISGAC.CURSO
+ 2022-02-21 21:42:57,102 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - columns: [nome, id, descricao, status]
+ 2022-02-21 21:42:57,102 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - foreign keys: []
+ 2022-02-21 21:42:57,102 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - indexes: [sql070608002733760]
+ 2022-02-21 21:42:57,112 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - table found: .SISGAC.CURSO_ALUNO
+ 2022-02-21 21:42:57,112 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - columns: [curso_id, aluno_id, id]
+ 2022-02-21 21:42:57,112 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - foreign keys: [curso_id_id_fk, fk821c4388f4d2d1e, fk821c438828602573, curso_aluno_aluno_id_fk]
+ 2022-02-21 21:42:57,112 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - indexes: [sql070608002733750, sql070608012642261, sql070608002733840, sql070608012642280, sql070608002734010]
+ 2022-02-21 21:42:57,156 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - table found: .SISGAC.CURSO_CURRICULO
+ 2022-02-21 21:42:57,156 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - columns: [curso_id, curriculo_id, id]
+ 2022-02-21 21:42:57,156 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - foreign keys: [fk32d9a89ffe7091e, curso_curriculo_curriculo_id_id_fk, fk32d9a89f4d2d1e, curso_curriculo_curso_id_id_fk]
+ 2022-02-21 21:42:57,156 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - indexes: [sql070608012642290, sql070608002733960, sql070608012642320, sql070608002751200, sql070608002733680]
+ 2022-02-21 21:42:57,163 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - table found: .SISGAC.INSTITUICAO
+ 2022-02-21 21:42:57,163 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - columns: [cidade, estado, telefone, endereco, ddd, bairro, nome, cep, departamento, id, webpage, fax, slogan, email]
+ 2022-02-21 21:42:57,163 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - foreign keys: []
+ 2022-02-21 21:42:57,163 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - indexes: [sql070608002733780]
+ 2022-02-21 21:42:57,172 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - table found: .SISGAC.LANCAMENTO
+ 2022-02-21 21:42:57,172 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - columns: [data_inicio, hora_aproveitamento, data_fim, carga_horario, aluno_id, id, atividade_complementar_id]
+ 2022-02-21 21:42:57,172 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - foreign keys: [fk69a57ab80916cf, fk69a57a28602573, atividade_complementar_id_id_fk, lancamento_aluno_id_fk]
+ 2022-02-21 21:42:57,172 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - indexes: [sql070608012642370, sql070608002733810, sql070608002733920, sql070608002733811, sql070608012642321]
+ 2022-02-21 21:42:57,172 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.SchemaUpdate - schema update complete
+ 2022-02-21 21:42:57,277 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - META-INF/MANIFEST.MFO-:-Ofalse
+ 2022-02-21 21:42:57,277 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - META-INF/SISGAC_HIBERANTE.dbschemaO-:-Ofalse
+ 2022-02-21 21:42:57,277 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - META-INF/derby.dbschemaO-:-Ofalse
+ 2022-02-21 21:42:57,277 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - META-INF/persistence.xmlO-:-Ofalse
+ 2022-02-21 21:42:57,277 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - META-INF/public_SISGAC.dbschemaO-:-Ofalse
+ 2022-02-21 21:42:57,277 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - ValidatorMessages.propertiesO-:-Ofalse
+ 2022-02-21 21:42:57,277 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - log4j.propertiesO-:-Ofalse
+ 2022-02-21 21:42:57,283 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/48_desktop.pngO-:-Ofalse
+ 2022-02-21 21:42:57,284 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/Thumbs.dbO-:-Ofalse
+ 2022-02-21 21:42:57,284 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/abrir-16.pngO-:-Ofalse
+ 2022-02-21 21:42:57,284 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/alunos-48.pngO-:-Ofalse
+ 2022-02-21 21:42:57,284 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/atividade-complementar-48.pngO-:-Ofalse
+ 2022-02-21 21:42:57,284 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/buscar-16.pngO-:-Ofalse
+ 2022-02-21 21:42:57,284 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/cancelar-16.pngO-:-Ofalse
+ 2022-02-21 21:42:57,284 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/categoria-48.pngO-:-Ofalse
+ 2022-02-21 21:42:57,284 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/closeX.gifO-:-Ofalse
+ 2022-02-21 21:42:57,284 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/curriculo-48.pngO-:-Ofalse
+ 2022-02-21 21:42:57,284 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/cursos-48.pngO-:-Ofalse
+ 2022-02-21 21:42:57,284 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/deletar-16.pngO-:-Ofalse
+ 2022-02-21 21:42:57,284 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/editar-16.pngO-:-Ofalse
+ 2022-02-21 21:42:57,284 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/graficos-48.pngO-:-Ofalse
+ 2022-02-21 21:42:57,284 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/limpar-16.pngO-:-Ofalse
+ 2022-02-21 21:42:57,284 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/ok-16.pngO-:-Ofalse
+ 2022-02-21 21:42:57,284 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/relatorios-48.pngO-:-Ofalse
+ 2022-02-21 21:42:57,284 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/salvar-16.pngO-:-Ofalse
+ 2022-02-21 21:42:57,284 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/imagens/sisgac_logo.pngO-:-Ofalse
+ 2022-02-21 21:42:57,284 [Thread-0] FATAL  org.hibernate.ejb.Ejb3Configuration - org/confrariadojava/sisgac/mensagens/mensagens.propertiesO-:-Ofalse
+ 2022-02-21 21:42:57,294 [Thread-0] INFO   org.hibernate.cfg.AnnotationBinder - Binding entity from annotated class: org.confrariadojava.sisgac.domain.AlunoAtividadeComplementar
+ 2022-02-21 21:42:57,294 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: AlunoAtividadeComplementar.findById => SELECT a FROM AlunoAtividadeComplementar a WHERE a.id = :id
+ 2022-02-21 21:42:57,294 [Thread-0] INFO   org.hibernate.cfg.annotations.EntityBinder - Bind entity org.confrariadojava.sisgac.domain.AlunoAtividadeComplementar on table aluno_atividade_complementar
+ 2022-02-21 21:42:57,295 [Thread-0] INFO   org.hibernate.cfg.AnnotationBinder - Binding entity from annotated class: org.confrariadojava.sisgac.domain.Alunos
+ 2022-02-21 21:42:57,295 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Alunos.findById => SELECT a FROM Alunos a WHERE a.id = :id
+ 2022-02-21 21:42:57,295 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Alunos.findByNome => SELECT a FROM Alunos a WHERE a.nome = :nome
+ 2022-02-21 21:42:57,296 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Alunos.findByMatricula => SELECT a FROM Alunos a WHERE a.matricula = :matricula
+ 2022-02-21 21:42:57,296 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Alunos.findByIngresso => SELECT a FROM Alunos a WHERE a.ingresso = :ingresso
+ 2022-02-21 21:42:57,296 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Alunos.findByTaxaAproveitamento => SELECT a FROM Alunos a WHERE a.taxaAproveitamento = :taxaAproveitamento
+ 2022-02-21 21:42:57,296 [Thread-0] INFO   org.hibernate.cfg.annotations.EntityBinder - Bind entity org.confrariadojava.sisgac.domain.Alunos on table alunos
+ 2022-02-21 21:42:57,298 [Thread-0] INFO   org.hibernate.cfg.AnnotationBinder - Binding entity from annotated class: org.confrariadojava.sisgac.domain.AtividadeComplementar
+ 2022-02-21 21:42:57,298 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: AtividadeComplementar.findById => SELECT a FROM AtividadeComplementar a WHERE a.id = :id
+ 2022-02-21 21:42:57,298 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: AtividadeComplementar.findByNome => SELECT a FROM AtividadeComplementar a WHERE a.nome = :nome
+ 2022-02-21 21:42:57,298 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: AtividadeComplementar.findByTaxaEquivalencia => SELECT a FROM AtividadeComplementar a WHERE a.taxaEquivalencia = :taxaEquivalencia
+ 2022-02-21 21:42:57,298 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: AtividadeComplementar.findByDescricao => SELECT a FROM AtividadeComplementar a WHERE a.descricao = :descricao
+ 2022-02-21 21:42:57,298 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: AtividadeComplementar.findByStatus => SELECT a FROM AtividadeComplementar a WHERE a.status = :status
+ 2022-02-21 21:42:57,298 [Thread-0] INFO   org.hibernate.cfg.annotations.EntityBinder - Bind entity org.confrariadojava.sisgac.domain.AtividadeComplementar on table atividade_complementar
+ 2022-02-21 21:42:57,299 [Thread-0] INFO   org.hibernate.cfg.AnnotationBinder - Binding entity from annotated class: org.confrariadojava.sisgac.domain.Categoria
+ 2022-02-21 21:42:57,299 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Categoria.findById => SELECT c FROM Categoria c WHERE c.id = :id
+ 2022-02-21 21:42:57,299 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Categoria.findByNome => SELECT c FROM Categoria c WHERE c.nome = :nome
+ 2022-02-21 21:42:57,299 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Categoria.findByMaximoHoras => SELECT c FROM Categoria c WHERE c.maximoHoras = :maximoHoras
+ 2022-02-21 21:42:57,300 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Categoria.findByStatus => SELECT c FROM Categoria c WHERE c.status = :status
+ 2022-02-21 21:42:57,300 [Thread-0] INFO   org.hibernate.cfg.annotations.EntityBinder - Bind entity org.confrariadojava.sisgac.domain.Categoria on table categoria
+ 2022-02-21 21:42:57,301 [Thread-0] INFO   org.hibernate.cfg.AnnotationBinder - Binding entity from annotated class: org.confrariadojava.sisgac.domain.Curriculo
+ 2022-02-21 21:42:57,301 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Curriculo.findById => SELECT c FROM Curriculo c WHERE c.id = :id
+ 2022-02-21 21:42:57,301 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Curriculo.findByCargaHoraria => SELECT c FROM Curriculo c WHERE c.cargaHoraria = :cargaHoraria
+ 2022-02-21 21:42:57,301 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Curriculo.findByImplantacao => SELECT c FROM Curriculo c WHERE c.implantacao = :implantacao
+ 2022-02-21 21:42:57,301 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Curriculo.findByNumeroDisciplinas => SELECT c FROM Curriculo c WHERE c.numeroDisciplinas = :numeroDisciplinas
+ 2022-02-21 21:42:57,301 [Thread-0] INFO   org.hibernate.cfg.annotations.EntityBinder - Bind entity org.confrariadojava.sisgac.domain.Curriculo on table curriculo
+ 2022-02-21 21:42:57,302 [Thread-0] INFO   org.hibernate.cfg.AnnotationBinder - Binding entity from annotated class: org.confrariadojava.sisgac.domain.Curso
+ 2022-02-21 21:42:57,302 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Curso.findById => SELECT c FROM Curso c WHERE c.id = :id
+ 2022-02-21 21:42:57,302 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Curso.findByNome => SELECT c FROM Curso c WHERE c.nome = :nome
+ 2022-02-21 21:42:57,302 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Curso.findByDescricao => SELECT c FROM Curso c WHERE c.descricao = :descricao
+ 2022-02-21 21:42:57,302 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Curso.findByStatus => SELECT c FROM Curso c WHERE c.status = :status
+ 2022-02-21 21:42:57,302 [Thread-0] INFO   org.hibernate.cfg.annotations.EntityBinder - Bind entity org.confrariadojava.sisgac.domain.Curso on table curso
+ 2022-02-21 21:42:57,303 [Thread-0] INFO   org.hibernate.cfg.AnnotationBinder - Binding entity from annotated class: org.confrariadojava.sisgac.domain.CursoAluno
+ 2022-02-21 21:42:57,303 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: CursoAluno.findById => SELECT c FROM CursoAluno c WHERE c.id = :id
+ 2022-02-21 21:42:57,303 [Thread-0] INFO   org.hibernate.cfg.annotations.EntityBinder - Bind entity org.confrariadojava.sisgac.domain.CursoAluno on table curso_aluno
+ 2022-02-21 21:42:57,304 [Thread-0] INFO   org.hibernate.cfg.AnnotationBinder - Binding entity from annotated class: org.confrariadojava.sisgac.domain.CursoCurriculo
+ 2022-02-21 21:42:57,304 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: CursoCurriculo.findById => SELECT c FROM CursoCurriculo c WHERE c.id = :id
+ 2022-02-21 21:42:57,304 [Thread-0] INFO   org.hibernate.cfg.annotations.EntityBinder - Bind entity org.confrariadojava.sisgac.domain.CursoCurriculo on table curso_curriculo
+ 2022-02-21 21:42:57,305 [Thread-0] INFO   org.hibernate.cfg.AnnotationBinder - Binding entity from annotated class: org.confrariadojava.sisgac.domain.Instituicao
+ 2022-02-21 21:42:57,305 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Instituicao.findById => SELECT i FROM Instituicao i WHERE i.id = :id
+ 2022-02-21 21:42:57,305 [Thread-0] INFO   org.hibernate.cfg.annotations.EntityBinder - Bind entity org.confrariadojava.sisgac.domain.Instituicao on table instituicao
+ 2022-02-21 21:42:57,307 [Thread-0] INFO   org.hibernate.cfg.AnnotationBinder - Binding entity from annotated class: org.confrariadojava.sisgac.domain.Lancamento
+ 2022-02-21 21:42:57,307 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Lancamento.findById => SELECT l FROM Lancamento l WHERE l.id = :id
+ 2022-02-21 21:42:57,307 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Lancamento.findByDataInicio => SELECT l FROM Lancamento l WHERE l.dataInicio = :dataInicio
+ 2022-02-21 21:42:57,307 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Lancamento.findByDataFim => SELECT l FROM Lancamento l WHERE l.dataFim = :dataFim
+ 2022-02-21 21:42:57,307 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Lancamento.findByCargaHorario => SELECT l FROM Lancamento l WHERE l.cargaHorario = :cargaHorario
+ 2022-02-21 21:42:57,307 [Thread-0] INFO   org.hibernate.cfg.annotations.QueryBinder - Binding Named query: Lancamento.findByHoraAproveitamento => SELECT l FROM Lancamento l WHERE l.horaAproveitamento = :horaAproveitamento
+ 2022-02-21 21:42:57,307 [Thread-0] INFO   org.hibernate.cfg.annotations.EntityBinder - Bind entity org.confrariadojava.sisgac.domain.Lancamento on table lancamento
+ 2022-02-21 21:42:57,308 [Thread-0] INFO   org.hibernate.cfg.annotations.CollectionBinder - Mapping collection: org.confrariadojava.sisgac.domain.Alunos.cursoAlunoCollection -> curso_aluno
+ 2022-02-21 21:42:57,309 [Thread-0] INFO   org.hibernate.cfg.annotations.CollectionBinder - Mapping collection: org.confrariadojava.sisgac.domain.Alunos.lancamentoCollection -> lancamento
+ 2022-02-21 21:42:57,309 [Thread-0] INFO   org.hibernate.cfg.annotations.CollectionBinder - Mapping collection: org.confrariadojava.sisgac.domain.Alunos.alunoAtividadeComplementarCollection -> aluno_atividade_complementar
+ 2022-02-21 21:42:57,309 [Thread-0] INFO   org.hibernate.cfg.annotations.CollectionBinder - Mapping collection: org.confrariadojava.sisgac.domain.AtividadeComplementar.alunoAtividadeComplementarCollection -> aluno_atividade_complementar
+ 2022-02-21 21:42:57,309 [Thread-0] INFO   org.hibernate.cfg.annotations.CollectionBinder - Mapping collection: org.confrariadojava.sisgac.domain.Categoria.atividadeComplementarCollection -> atividade_complementar
+ 2022-02-21 21:42:57,309 [Thread-0] INFO   org.hibernate.cfg.annotations.CollectionBinder - Mapping collection: org.confrariadojava.sisgac.domain.Curriculo.curriculoCursoCollection -> curso_curriculo
+ 2022-02-21 21:42:57,309 [Thread-0] INFO   org.hibernate.cfg.annotations.CollectionBinder - Mapping collection: org.confrariadojava.sisgac.domain.Curso.cursoAlunoCollection -> curso_aluno
+ 2022-02-21 21:42:57,309 [Thread-0] INFO   org.hibernate.cfg.annotations.CollectionBinder - Mapping collection: org.confrariadojava.sisgac.domain.Curso.curriculoCollection -> curriculo
+ 2022-02-21 21:42:57,320 [Thread-0] INFO   org.hibernate.connection.DriverManagerConnectionProvider - Using Hibernate built-in connection pool (not for production use!)
+ 2022-02-21 21:42:57,321 [Thread-0] INFO   org.hibernate.connection.DriverManagerConnectionProvider - Hibernate connection pool size: 20
+ 2022-02-21 21:42:57,321 [Thread-0] INFO   org.hibernate.connection.DriverManagerConnectionProvider - autocommit mode: true
+ 2022-02-21 21:42:57,321 [Thread-0] INFO   org.hibernate.connection.DriverManagerConnectionProvider - using driver: org.apache.derby.jdbc.EmbeddedDriver at URL: jdbc:derby:database/sisgac
+ 2022-02-21 21:42:57,321 [Thread-0] INFO   org.hibernate.connection.DriverManagerConnectionProvider - connection properties: {user=sisgac, password=****, autocommit=true, release_mode=auto}
+ 2022-02-21 21:42:57,321 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - RDBMS: Apache Derby, version: 10.3.2.1 - (599110)
+ 2022-02-21 21:42:57,321 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - JDBC driver: Apache Derby Embedded JDBC Driver, version: 10.3.2.1 - (599110)
+ 2022-02-21 21:42:57,321 [Thread-0] INFO   org.hibernate.dialect.Dialect - Using dialect: org.hibernate.dialect.DerbyDialect
+ 2022-02-21 21:42:57,321 [Thread-0] INFO   org.hibernate.transaction.TransactionFactoryFactory - Transaction strategy: org.hibernate.transaction.JDBCTransactionFactory
+ 2022-02-21 21:42:57,322 [Thread-0] INFO   org.hibernate.transaction.TransactionManagerLookupFactory - No TransactionManagerLookup configured (in JTA environment, use of read-write or transactional second-level cache is not recommended)
+ 2022-02-21 21:42:57,322 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Automatic flush during beforeCompletion(): disabled
+ 2022-02-21 21:42:57,322 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Automatic session close at end of transaction: disabled
+ 2022-02-21 21:42:57,322 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Scrollable result sets: enabled
+ 2022-02-21 21:42:57,322 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - JDBC3 getGeneratedKeys(): disabled
+ 2022-02-21 21:42:57,322 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Connection release mode: auto
+ 2022-02-21 21:42:57,322 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Default batch fetch size: 1
+ 2022-02-21 21:42:57,322 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Generate SQL with comments: disabled
+ 2022-02-21 21:42:57,322 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Order SQL updates by primary key: disabled
+ 2022-02-21 21:42:57,322 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Query translator: org.hibernate.hql.ast.ASTQueryTranslatorFactory
+ 2022-02-21 21:42:57,322 [Thread-0] INFO   org.hibernate.hql.ast.ASTQueryTranslatorFactory - Using ASTQueryTranslatorFactory
+ 2022-02-21 21:42:57,322 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Query language substitutions: {}
+ 2022-02-21 21:42:57,322 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Second-level cache: enabled
+ 2022-02-21 21:42:57,322 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Query cache: disabled
+ 2022-02-21 21:42:57,322 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Cache provider: org.hibernate.cache.NoCacheProvider
+ 2022-02-21 21:42:57,322 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Optimize cache for minimal puts: disabled
+ 2022-02-21 21:42:57,322 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Structured second-level cache entries: disabled
+ 2022-02-21 21:42:57,322 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Statistics: disabled
+ 2022-02-21 21:42:57,322 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Deleted entity synthetic identifier rollback: disabled
+ 2022-02-21 21:42:57,322 [Thread-0] INFO   org.hibernate.cfg.SettingsFactory - Default entity-mode: pojo
+ 2022-02-21 21:42:57,326 [Thread-0] INFO   org.hibernate.impl.SessionFactoryImpl - building session factory
+ 2022-02-21 21:42:57,358 [Thread-0] INFO   org.hibernate.impl.SessionFactoryObjectFactory - Not binding factory to JNDI, no JNDI name configured
+ 2022-02-21 21:42:57,358 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.SchemaUpdate - Running hbm2ddl schema update
+ 2022-02-21 21:42:57,358 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.SchemaUpdate - fetching database metadata
+ 2022-02-21 21:42:57,358 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.SchemaUpdate - updating schema
+ 2022-02-21 21:42:57,368 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - table found: .SISGAC.ALUNO_ATIVIDADE_COMPLEMENTAR
+ 2022-02-21 21:42:57,368 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - columns: [aluno_id, id, atividade_complementar_id]
+ 2022-02-21 21:42:57,368 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - foreign keys: [fk8a6972e328602573, aluno_atividade_complementar_aluno_id_fk, fk8a6972e3eff15aad, aluno_atividade_complementar_a_c_id_id_fk]
+ 2022-02-21 21:42:57,368 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - indexes: [sql070608002733870, sql070608012642140, sql070608002733620, sql070608012642170, sql070608002733890]
+ 2022-02-21 21:42:57,371 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - table found: .SISGAC.ALUNOS
+ 2022-02-21 21:42:57,371 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - columns: [taxa_aproveitamento, matricula, ingresso, nome, id]
+ 2022-02-21 21:42:57,371 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - foreign keys: []
+ 2022-02-21 21:42:57,371 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - indexes: [sql070608002733640]
+ 2022-02-21 21:42:57,376 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - table found: .SISGAC.ATIVIDADE_COMPLEMENTAR
+ 2022-02-21 21:42:57,376 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - columns: [nome, taxa_equivalencia, id, categoria_id, descricao, status]
+ 2022-02-21 21:42:57,376 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - foreign keys: [fkaad9b10f9acabfbe, categoria_id_id_fk]
+ 2022-02-21 21:42:57,376 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - indexes: [sql070608002733650, sql070608002733950, sql070608012642200]
+ 2022-02-21 21:42:57,379 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - table found: .SISGAC.CATEGORIA
+ 2022-02-21 21:42:57,379 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - columns: [maximo_horas, nome, id, status]
+ 2022-02-21 21:42:57,379 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - foreign keys: []
+ 2022-02-21 21:42:57,379 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - indexes: [sql070608002733670]
+ 2022-02-21 21:42:57,384 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - table found: .SISGAC.CURRICULO
+ 2022-02-21 21:42:57,384 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - columns: [carga_horaria, curso_id, numero_disciplinas, implantacao, nome, id]
+ 2022-02-21 21:42:57,384 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - foreign keys: [curriculo_curso_id_id_fk, fk2765b26cf4d2d1e]
+ 2022-02-21 21:42:57,384 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - indexes: [sql070608002751170, sql070608012642260, sql070608002733710]
+ 2022-02-21 21:42:57,395 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - table found: .SISGAC.CURSO
+ 2022-02-21 21:42:57,395 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - columns: [nome, id, descricao, status]
+ 2022-02-21 21:42:57,395 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - foreign keys: []
+ 2022-02-21 21:42:57,395 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - indexes: [sql070608002733760]
+ 2022-02-21 21:42:57,400 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - table found: .SISGAC.CURSO_ALUNO
+ 2022-02-21 21:42:57,400 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - columns: [curso_id, aluno_id, id]
+ 2022-02-21 21:42:57,400 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - foreign keys: [curso_id_id_fk, fk821c4388f4d2d1e, fk821c438828602573, curso_aluno_aluno_id_fk]
+ 2022-02-21 21:42:57,400 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - indexes: [sql070608002733750, sql070608012642261, sql070608002733840, sql070608012642280, sql070608002734010]
+ 2022-02-21 21:42:57,405 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - table found: .SISGAC.CURSO_CURRICULO
+ 2022-02-21 21:42:57,405 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - columns: [curso_id, curriculo_id, id]
+ 2022-02-21 21:42:57,405 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - foreign keys: [fk32d9a89ffe7091e, curso_curriculo_curriculo_id_id_fk, fk32d9a89f4d2d1e, curso_curriculo_curso_id_id_fk]
+ 2022-02-21 21:42:57,405 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - indexes: [sql070608012642290, sql070608002733960, sql070608012642320, sql070608002751200, sql070608002733680]
+ 2022-02-21 21:42:57,408 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - table found: .SISGAC.INSTITUICAO
+ 2022-02-21 21:42:57,408 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - columns: [cidade, estado, telefone, endereco, ddd, bairro, nome, cep, departamento, id, webpage, fax, slogan, email]
+ 2022-02-21 21:42:57,408 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - foreign keys: []
+ 2022-02-21 21:42:57,408 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - indexes: [sql070608002733780]
+ 2022-02-21 21:42:57,415 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - table found: .SISGAC.LANCAMENTO
+ 2022-02-21 21:42:57,415 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - columns: [data_inicio, hora_aproveitamento, data_fim, carga_horario, aluno_id, id, atividade_complementar_id]
+ 2022-02-21 21:42:57,415 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - foreign keys: [fk69a57ab80916cf, fk69a57a28602573, atividade_complementar_id_id_fk, lancamento_aluno_id_fk]
+ 2022-02-21 21:42:57,415 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.TableMetadata - indexes: [sql070608012642370, sql070608002733810, sql070608002733920, sql070608002733811, sql070608012642321]
+ 2022-02-21 21:42:57,415 [Thread-0] INFO   org.hibernate.tool.hbm2ddl.SchemaUpdate - schema update complete
+ 

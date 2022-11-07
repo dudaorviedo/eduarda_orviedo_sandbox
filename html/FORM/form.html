@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Criando um Form</title>
+</head>
+
+<body>
+    <h3>Cadastro da liga dos astronautas</h3>
+    <form>
+        <div>
+            <label for="name">Nome:</label>
+            <input type="text" id="name" name="name">
+        </div>
+        <br>
+        <div>
+            <label for="email">Email:</label>
+            <input type="e-mail" id="email" name="email"> -
+
+            <label for="pwd">Password:</label>
+            <input type="password" id="pwd" name="pwd">
+        </div>
+        <br>
+        <div>
+            <label for="birthday">Data de Nascimento:</label>
+            <input type="date" id="birthday" name="birthday"> -
+
+            <label for="myfile">Foto:</label>
+            <input type="file" id="myfile" name="myfile">
+        </div>
+        <br>
+        <div>
+            <label for="race">Nacionalidade:</label>
+            <select id="race" name="race">
+                <option value="Russo">Russo</option>
+                <option value="Americano">Americano</option>
+                <option value="Brasileiro">Brasileiro</option> -
+            </select>
+            - Genero:
+            <input type="radio" id="female" name="gender" value="F">
+            <label for="female">F</label>
+            <input type="radio" id="masc" name="gender" value="M">
+            <label for="masc">M</label>
+        </div>
+        <br>
+        <div>
+            Suas principais qualidades:
+            <br>
+            <input type="checkbox" id="inteligence" name="qualities" value="INTELIGÊNCIA">
+            <label for="inteligence">Inteligência</label>
+
+            <input type="checkbox" id="resilience" name="qualities" value="RESILIENCIA">
+            <label for="resilience">| Resiliência</label>
+
+            <input type="checkbox" id="Prepare_fisic" name="qualities" value="Preparo_Fisico">
+            <label for="Prepare_fisic">| Preparo Físico</label>
+
+            <input type="checkbox" id="Education" name="qualities" value="EDUCAÇÃO">
+            <label for="Education">| Educação</label>
+        </div>
+        <br>
+        <div>
+            <textarea name="description" id="description" rows="10" cols="30"
+                placeholder="Porque você gostaria de ser um astronauta?"></textarea>
+        </div>
+        <br>
+        <div>
+            <input type="submit" value="Criar">
+        </div>
+    </form>
+</body>
+
+</html>

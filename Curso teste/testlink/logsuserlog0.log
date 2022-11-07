@@ -1,0 +1,5 @@
+[>>][5f8c64c880ef6368277010][DEFAULT][/testlink/install/installCheck.php][20/Oct/18 15:52:40]
+	[20/Oct/18 15:52:40][WARNING][<nosession>][GUI]
+		E_WARNING
+Use of undefined constant TL_APICALL - assumed 'TL_APICALL' (this will throw an Error in a future version of PHP) - in C:\wamp64\www\testlink\lib\functions\common.php - Line 57
+[<<][5f8c64c880ef6368277010][DEFAULT][/testlink/install/installCheck.php][20/Oct/18 15:52:40][20/Oct/18 15:52:40][took 0.01845 secs]
